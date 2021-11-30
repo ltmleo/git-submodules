@@ -1,0 +1,6 @@
+[submodule "base64-api"]
+	path = base64-api
+	url = git@github.com:ltmleo/base64-api.git
+[submodule "cloud-function-api"]
+	path = cloud-function-api
+	url = https://github.com/ltmleo/cloud-function-api
